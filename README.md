@@ -2,8 +2,8 @@
 # PNU_3991_AR
 # مرضیه بهالو
 - [PNU_3991_AR](https://github.com/marziyehbahalou/PNU_3991_AR)
-- [Resume](https://marziyehbahalou.github.io/Behnejad/) 
-- [SOP](https://marziyehbahalou.github.io/SOP/)
+- [Resume](https://github.com/marziyehbahalou/resume) 
+- [SOP](https://github.com/marziyehbahalou/SOP1)
 - [GitHub](https://github.com/marziyehbahalou)
 - [Certificate](https://github.com/marziyehbahalou/Proof-javascript-certificate/blob/main/certificate.jpeg)
 -----------------
