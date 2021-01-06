@@ -5,6 +5,7 @@
 - [Resume](https://github.com/marziyehbahalou/resume) 
 - [SOP](https://github.com/marziyehbahalou/SOP1)
 - [GitHub](https://github.com/marziyehbahalou)
+- [methodology22](https://github.com/marziyehbahalou/methodology22)
 - [Certificate](https://github.com/marziyehbahalou/Proof-javascript-certificate/blob/main/certificate.jpeg)
 -----------------
 1. G-A01
