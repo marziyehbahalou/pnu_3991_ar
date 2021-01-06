@@ -1,7 +1,7 @@
 # pnu_3991_ar
 # PNU_3991_AR
 # مرضیه بهالو
-- [PNU_3991_AR](https://github.com/marziyehbahalou/PNU_3991_AR)
+- [js](https://github.com/marziyehbahalou/PNU_3991_AR)
 - [Resume](https://github.com/marziyehbahalou/resume) 
 - [SOP](https://github.com/marziyehbahalou/SOP1)
 - [GitHub](https://github.com/marziyehbahalou)
