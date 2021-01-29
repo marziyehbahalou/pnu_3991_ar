@@ -20,7 +20,7 @@
 
 [1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/marziyehbahalou/pnu_3991_ar/tree/main/AdvancedSoftwareEngineering)
 <br>
-[1115282_01	متدولوژي ايجاد نرم افزار	3]()
+[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/marziyehbahalou/pnu_3991_ar/blob/main/SoftwareDevelopmentMethodolgies/README.md)
 <br>
 [1115280_01	معماري نرم افزار	3](https://github.com/marziyehbahalou/pnu_3991_ar/tree/main/SoftwareArchitecture)
 
