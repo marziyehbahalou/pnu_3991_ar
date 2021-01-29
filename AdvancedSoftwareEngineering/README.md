@@ -1,8 +1,8 @@
-# [PNU_3991_AR](https://github.com/bahram200/PNU_3991_AR)
+# [PNU_3991_AR](https://github.com/marziyehbahalou/pnu_3991_ar)
 <div dir="rtl">
   
   ## مرضیه بهاء لو
-- [PNU_3991_AR](https://github.com/bahram200/PNU_3991_AR)
+- [PNU_3991_AR](https://github.com/marziyehbahalou/pnu_3991_ar)
 - [Resume](https://github.com/marziyehbahalou/resume) 
 - [SOP](https://github.com/marziyehbahalou/SOP1)
 - [Certificates](https://github.com/marziyehbahalou/PNU_3991_AR)
