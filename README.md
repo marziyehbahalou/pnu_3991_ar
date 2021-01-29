@@ -86,9 +86,9 @@
               <th style="background-color: darkgray;">Javascript</th>
               <th style="background-color: darkorange;">مطالعه دروس</th>
               <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
-              <th style="background-color: darkcyan;">سرکار</th>
-              <th style="background-color: darkcyan;">سرکار</th>
-              <th style="background-color: darkcyan;">سرکار</th>
+              <th style="background-color: darkcyan;"></th>
+              <th style="background-color: darkcyan;"></th>
+              <th style="background-color: darkcyan;"></th>
               <th>شنبه</th>
             </tr>
              <tr>
