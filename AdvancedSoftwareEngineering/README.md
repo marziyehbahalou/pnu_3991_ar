@@ -3,10 +3,11 @@
   
   ## مرضیه بهاء لو
 - [PNU_3991_AR](https://github.com/bahram200/PNU_3991_AR)
-- [Resume](https://bahram200.github.io/Behnejad/) 
-- [SOP](https://bahram200.github.io/SOP/)
-- [Certificates](https://github.com/bahram200/Proof-javascript-certificate/blob/main/certificate.jpeg)
-- [GitHub](https://github.com/bahram200)
+- [Resume](https://github.com/marziyehbahalou/resume) 
+- [SOP](https://github.com/marziyehbahalou/SOP1)
+- [Certificates](https://github.com/marziyehbahalou/PNU_3991_AR)
+- [GitHub](https://github.com/marziyehbahalou)
+- [patchwork](https://github.com/jlord/patchwork/pull/38489)
 
 -----------------------------
 ## دروس ارشد  
