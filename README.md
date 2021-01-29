@@ -15,25 +15,14 @@
 - [mohandesi narmafzar](https://github.com/marziyehbahalou/mohandesi-narmafzar)
 - [patchwork](https://github.com/jlord/patchwork/pull/38489)
 -----------------
------------------
-> ارزیابی ها
 
-بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/bahram200/PNU_3991_AR/blob/main2/General/BB_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/bahram200/PNU_3991_AR/blob/main2/General/BB_GeneralSection_CheckList_AR_3991.pdf)
-
-##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/bahram200/PNU_3991_AR/blob/main2/AdvancedSoftwareEngineering/BB_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/bahram200/PNU_3991_AR/blob/main2/SoftwareDevelopmentMethodologies/BB_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/bahram200/PNU_3991_AR/blob/main2/SoftwareArchitecture/BB_SoftwareArchitecture_CheckList_AR_3991.pdf)
-------------------
 ## فهرست درس ها  
 
-[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/bahram200/PNU_3991_AR/tree/main2/AdvancedSoftwareEngineering)
+[1115026_01	مهندسي نرم افزارپيشرفته	3]()
 <br>
-[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/bahram200/PNU_3991_AR/tree/main2/SoftwareDevelopmentMethodologies)
+[1115282_01	متدولوژي ايجاد نرم افزار	3]()
 <br>
-[1115280_01	معماري نرم افزار	3](https://github.com/bahram200/PNU_3991_AR/tree/main2/SoftwareArchitecture)
+[1115280_01	معماري نرم افزار	3]()
 
 
 
