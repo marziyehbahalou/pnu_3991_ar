@@ -22,7 +22,7 @@
 <br>
 [1115282_01	متدولوژي ايجاد نرم افزار	3]()
 <br>
-[1115280_01	معماري نرم افزار	3]()
+[1115280_01	معماري نرم افزار	3](https://github.com/marziyehbahalou/pnu_3991_ar/tree/main/SoftwareArchitecture)
 
 
 
