@@ -63,4 +63,88 @@
     1. [SDM-21زهرا صالح زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/21_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%B2%D8%A7%D8%AF%D9%87)
     1. [SDM-24پوریا صفری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/24_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A)
     1. [SDM-28مهتاب محمد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/28_%D9%85%D9%87%D8%AA%D8%A7%D8%A8%20%D9%85%D8%AD%D9%85%D8%AF)  
+ -----------
+ <div align="center">
    
+   <div dir="ltr">
+   
+<table style="width:100%" >
+            <tr>
+             <th >ملاحضات</th>
+             <th >20-22</th>
+             <th >18-20</th>
+              <th >16-18</th>
+              <th >14-16</th>
+              <th >12-14</th>
+              <th>10-12</th>
+              <th>8-10</th>
+              <th>روز</th>
+            </tr>
+            <tr>
+              <th></th>
+              <th style="background-color: dimgrey;">ترجمه کتاب</th>
+              <th style="background-color: darkgray;">Javascript</th>
+              <th style="background-color: darkorange;">مطالعه دروس</th>
+              <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+              <th style="background-color: darkcyan;">سرکار</th>
+              <th style="background-color: darkcyan;">سرکار</th>
+              <th style="background-color: darkcyan;">سرکار</th>
+              <th>شنبه</th>
+            </tr>
+             <tr>
+                <th></th>
+                <th style="background-color: dimgrey;">ترجمه کتاب</th>
+                <th style="background-color: darkgray;">Javascript</th>
+                <th style="background-color: darkorange;">مطالعه دروس</th>
+                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+              <th>یک شنبه</th>
+            </tr>
+             <tr>
+               <th></th>
+                <th style="background-color: dimgrey;">ترجمه کتاب</th>
+                <th style="background-color: darkgray;">Javascript</th>
+                <th style="background-color: darkorange;">مطالعه دروس</th>
+                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+              <th>دوشنبه</th>
+            </tr>
+             <tr>
+                 <th></th>
+                <th style="background-color: dimgrey;">ترجمه کتاب</th>
+                <th style="background-color: darkgray;">Javascript</th>
+                <th style="background-color: darkorange;">مطالعه دروس</th>
+                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+                <th style="background-color: darkcyan;"></th>
+                <th style="background-color: darkcyan;"></th>
+                <th style="background-color: darkcyan;"></th>
+              <th>سه شنبه</th>
+            </tr>
+             <tr>
+                <th></th>
+                <th style="background-color: dimgrey;">ترجمه کتاب</th>
+                <th style="background-color:red;">کلاس مهندسی نیازمندی ها</th>
+                <th style="background-color: darkorange;">مطالعه دروس</th>
+                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+                <th style="background-color: darkcyan;"></th>
+                <th style="background-color: darkcyan;"></th>
+                <th style="background-color: darkcyan;"></th>
+              <th>چهارشنبه</th>
+            </tr>
+             <tr>
+                <th></th>
+                <th style="background-color: dimgrey;">ترجمه کتاب</th>
+                <th style="background-color:red;">کلاس مهندسی نیازمندی ها</th>
+                <th style="background-color: darkorange;">مطالعه دروس</th>
+                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+                <th style="background-color: darkcyan;">کلاس متودولوژی ایجاد نرم افزار</th>
+                <th style="background-color: darkcyan;">کلاس معماری نرم افزار</th>
+                <th style="background-color: darkcyan;">کلاس مهندسی نرم افزار</th>
+              <th>پنج شنبه</th>
+            </tr>
+          </table> 
+          </div>   
